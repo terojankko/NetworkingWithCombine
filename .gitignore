@@ -1,0 +1,39 @@
+# *.xcworkspacedata
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+**/JennyLife_UI_Final.sketch
+**/.~lock.JennyLife*
+**dSYM.zip
+*.userprefs
+**/obj/**
+**/bin/**
+**/.DS_Store
+**/build/**
+build_log_*.txt
+**/clear_log.txt
+BuildProducts
+.idea/
+Translator/TranslatorResource.bundle
+# Jenkins Build Script files
+exceptions.log
+**/test-reports/
+# MacVim
+*.swp
+*.xcscmblueprint
+Pods/
+Podfile.lock
+./JennyLife/fastlane/report.xml
+pdf/
